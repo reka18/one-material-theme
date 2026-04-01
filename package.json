@@ -2,18 +2,22 @@
 	"name": "one-material-dark",
 	"displayName": "One Material Dark+",
 	"description": "Atom's One Dark syntax + Material Dark & Light Environment Themes (including Mojave) for Visual Studio Code.",
-	"version": "1.2.5",
+	"version": "1.3.0",
 	"publisher": "reagankarnes",
 	"author": {
 		"name": "reagankarnes"
 	},
 	"homepage": "https://github.com/reka18/one-material-theme",
+	"license": "MIT",
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/reka18/one-material-theme"
 	},
+	"bugs": {
+		"url": "https://github.com/reka18/one-material-theme/issues"
+	},
 	"engines": {
-		"vscode": "^1.12.0"
+		"vscode": "^1.110.0"
 	},
 	"categories": [
 		"Themes"
@@ -50,7 +54,7 @@
 		"macos"
 	],
 	"devDependencies": {
-		"docsify-cli": "^3.3.2",
+		"docsify-cli": "^4.4.4",
 		"pre-commit": "^1.2.2"
 	},
 	"galleryBanner": {

@@ -1,4 +1,11 @@
 # Change Log
+## 1.3.0 | 2026.03.31
+- Add semantic token colors to all four themes for improved syntax accuracy on modern VS Code
+- Add `license` and `bugs` fields to package.json
+- Expand .gitignore with VS Code extension patterns (*.vsix, .vscode-test/, *.log)
+- Update minimum VS Code engine to ^1.110.0
+- Update devDependencies
+
 ## 1.2.5 | 2018.11.21
 - Adjust all editor colors
 

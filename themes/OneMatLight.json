@@ -73,6 +73,25 @@
     "peekViewTitle.background": "#FFFFFF",
     "peekViewEditor.background": "#FFFFFF"
   },
+  "semanticTokenColors": {
+    "variable": "#e06c75",
+    "variable.readonly": "#d19a66",
+    "parameter": "#e06c75",
+    "function": "#61AFEF",
+    "function.declaration": "#61AFEF",
+    "method": "#61AFEF",
+    "type": "#E5C07B",
+    "class": "#E5C07B",
+    "interface": "#E5C07B",
+    "enum": "#E5C07B",
+    "enumMember": "#56b6c2",
+    "namespace": "#e06c75",
+    "property": "#e06c75",
+    "keyword": "#c678dd",
+    "string": "#50A14F",
+    "number": "#d19a66",
+    "comment": "#5C6370"
+  },
   "tokenColors": [
     {
       "name": "class.self",
